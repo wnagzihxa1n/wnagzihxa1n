@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Qihoo Tech
+- 🔭 I’m currently working on Huawei Tech
 - 🌱 I’m currently learning iOS Jailbreak & Safari Pwn
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
